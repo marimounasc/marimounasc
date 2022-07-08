@@ -1,2 +1,10 @@
+## Hi, I am Mariana! :)
 
-Data Scientist at @Afya with microeconometrics background. Almost everyday I update my readings in Skoob app before bed.   
+
+* Currently working as a Data Scientist at @Afya
+* MSc Student in Applied Economics
+* Most of time working with functions and metrics using big data on PySpark interface
+* Product enthusiast
+* Every day I update my reading goals on Skoob app 📚
+* Mom's dog 🐶
+
